@@ -33,7 +33,7 @@ Page 1: AdventureWorks Sales Overview
 This page presents high-level KPIs, budget vs. actual sales, and year-over-year growth, serving as an executive summary.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/122973220/213424939-2e4614c7-9691-e53f7aa9f368.jpg" alt="Sales Overview Dashboard Page 1" width="800"/>
+<img src="https://user-images.githubusercontent.com/122973220/213424939-2e4614c7-28f2-4f25-9691-e53f7aa9f368.jpg" width="800"/>
 </p>
 
 Page 2: Sales by Customer
